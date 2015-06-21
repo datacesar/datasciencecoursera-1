@@ -1,0 +1,21 @@
+Introduction
+
+This file contains the instructions to run a the script called run_analysis.R. 
+
+This script contains several task as:
+
+Read some data from ./data/UCI HAR Dataset/ repository 
+(The content can be download at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip )
+Do some transformations
+Export the tiny data to a txt file in ~ repository.
+The codebook_run_analysis.md contains the structure of this file.
+
+Run from command line
+
+Clone this repo
+Run the script:
+
+$ Rscript run_analysis.R
+
+Look for the final dataset at AverageMeanStd.txt
+
